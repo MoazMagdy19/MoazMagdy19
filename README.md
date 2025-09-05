@@ -44,11 +44,6 @@ Thanks for stopping by! Feel free to check out my repositories or reach out if y
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> 
 </p>
 
-### 📱 Mobile  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/> 
-</p>
 
 ### 🛠️ DevOps & Tools  
 <p align="left">
