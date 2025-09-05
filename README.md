@@ -38,12 +38,6 @@ I thrive on solving problems, improving workflows, and constantly challenging my
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> 
 </p>
 
-### 📱 Mobile  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/> 
-</p>
-
 ### 🛠️ DevOps & Tools  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> 
@@ -79,5 +73,8 @@ I thrive on solving problems, improving workflows, and constantly challenging my
   </a>
   <a href="http://linkedin.com/in/moaz-magdy-23a965239" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://discordapp.com/users/moazmagdy4429" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
