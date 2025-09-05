@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, My Name Is Moaz Magdy</h1>
 <h3 align="center">Full Stack Developer | Aspiring DevOps Engineer 🚀</h3>
-
+![Profile Views](https://komarev.com/ghpvc/?username=MoazMagdy19&label=Profile%20views&color=0e75b6&style=flat)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/yourusername/yourimage.gif" alt="GIF Image" width="400"/>
 </p>
